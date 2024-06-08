@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/raksanall.va/Projects/26mayLesson/Task2/Task2.csproj": {}
+    "/Users/raksanall.va/Desktop/task14CA/Task2/Task2.csproj": {}
   },
   "projects": {
-    "/Users/raksanall.va/Projects/26mayLesson/Task2/Task2.csproj": {
+    "/Users/raksanall.va/Desktop/task14CA/Task2/Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/raksanall.va/Projects/26mayLesson/Task2/Task2.csproj",
+        "projectUniqueName": "/Users/raksanall.va/Desktop/task14CA/Task2/Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "/Users/raksanall.va/Projects/26mayLesson/Task2/Task2.csproj",
+        "projectPath": "/Users/raksanall.va/Desktop/task14CA/Task2/Task2.csproj",
         "packagesPath": "/Users/raksanall.va/.nuget/packages/",
-        "outputPath": "/Users/raksanall.va/Projects/26mayLesson/Task2/obj/",
+        "outputPath": "/Users/raksanall.va/Desktop/task14CA/Task2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/raksanall.va/.nuget/NuGet/NuGet.Config"

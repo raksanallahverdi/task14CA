@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/raksanall.va/Projects/26mayLesson/26mayLesson/Task1.csproj": {}
+    "/Users/raksanall.va/Desktop/task14CA/26mayLesson/Task1.csproj": {}
   },
   "projects": {
-    "/Users/raksanall.va/Projects/26mayLesson/26mayLesson/Task1.csproj": {
+    "/Users/raksanall.va/Desktop/task14CA/26mayLesson/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/raksanall.va/Projects/26mayLesson/26mayLesson/Task1.csproj",
+        "projectUniqueName": "/Users/raksanall.va/Desktop/task14CA/26mayLesson/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/Users/raksanall.va/Projects/26mayLesson/26mayLesson/Task1.csproj",
+        "projectPath": "/Users/raksanall.va/Desktop/task14CA/26mayLesson/Task1.csproj",
         "packagesPath": "/Users/raksanall.va/.nuget/packages/",
-        "outputPath": "/Users/raksanall.va/Projects/26mayLesson/26mayLesson/obj/",
+        "outputPath": "/Users/raksanall.va/Desktop/task14CA/26mayLesson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/raksanall.va/.nuget/NuGet/NuGet.Config"

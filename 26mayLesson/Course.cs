@@ -6,14 +6,14 @@ namespace Task1
 		private static int id = 1;
 		public int Id { get; set; }
 		public string Name { get; set; }
-		public List<Group> Groups { get; }
+		public CustomList<Group> Groups { get; }
         
 
         public Course(string name)
 		{
 			Name = name;
 			Id = id++;
-			Groups = new List<Group>();
+			Groups = new CustomList<Group>();
 
 		}
 

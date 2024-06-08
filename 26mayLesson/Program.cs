@@ -219,15 +219,12 @@ namespace Task1
                         case Operations.SearchForStudent:
                             Console.WriteLine("Axtarmaq istediyiniz studentin adini daxil edin");
                             string searchName = Console.ReadLine();
-                            var foundStudents = course.Groups.SelectMany(g => g.Students)
-                                                             .Where(s => s.Name.Contains(searchName, StringComparison.OrdinalIgnoreCase))
-                                                             .ToList();
-                            if (foundStudents.Any())
+                            var foundStudent = course.Groups.FirstOrDefault(g => g.Name == searchName);
+                            if (foundStudent is not null)
                             {
-                                foreach (var student in foundStudents)
-                                {
-                                    student.GetDetails();
-                                }
+
+                                foundStudent.GetDetails();
+                                
                             }
                             else
                             {

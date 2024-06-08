@@ -8,7 +8,7 @@ namespace Task1
 		public string Name { get; set; }
 		public string Surname { get; set; }
 		public DateTime BirthDate { get; set; }
-		public List<decimal> Grades { get; set; }
+		public CustomList<decimal> Grades { get; set; }
         private static int id = 1;
         public int Id { get; set; }
 
@@ -18,7 +18,7 @@ namespace Task1
             Id = id++;
             Surname = surname;
 			BirthDate = birthday;
-			Grades = new List<decimal>();
+			Grades = new CustomList<decimal>();
         }
         public void GetDetails()
 		{
