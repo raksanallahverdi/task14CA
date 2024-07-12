@@ -1,0 +1,14 @@
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\bin\Debug\net8.0\MyTASK3.exe
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\bin\Debug\net8.0\MyTASK3.deps.json
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\bin\Debug\net8.0\MyTASK3.runtimeconfig.json
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\bin\Debug\net8.0\MyTASK3.dll
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\bin\Debug\net8.0\MyTASK3.pdb
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.AssemblyInfoInputs.cache
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.AssemblyInfo.cs
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.csproj.CoreCompileInputs.cache
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.dll
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\refint\MyTASK3.dll
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.pdb
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\MyTASK3.genruntimeconfig.cache
+C:\Users\allah\Source\Repos\MyTASK3\MyTASK3\obj\Debug\net8.0\ref\MyTASK3.dll

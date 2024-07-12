@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|c:\\users\\allah\\source\\repos\\mytask3\\mytask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|solutionrelative:mytask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|c:\\users\\allah\\source\\repos\\mytask3\\mytask3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|solutionrelative:mytask3\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|c:\\users\\allah\\source\\repos\\mytask3\\mytask3\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|solutionrelative:mytask3\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|c:\\users\\allah\\source\\repos\\mytask3\\mytask3\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E887E9C-3E31-4142-BF35-E063ABDE3AA1}|MyTASK3\\MyTASK3.csproj|solutionrelative:mytask3\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Appointment.cs",
+              "RelativeDocumentMoniker": "MyTASK3\\Appointment.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Appointment.cs",
+              "RelativeToolTip": "MyTASK3\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:12:28.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Hospital.cs",
+              "RelativeDocumentMoniker": "MyTASK3\\Hospital.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Hospital.cs",
+              "RelativeToolTip": "MyTASK3\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:12:43.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Doctor.cs",
+              "RelativeDocumentMoniker": "MyTASK3\\Doctor.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Doctor.cs",
+              "RelativeToolTip": "MyTASK3\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:06:19.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Program.cs",
+              "RelativeDocumentMoniker": "MyTASK3\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\MyTASK3\\MyTASK3\\Program.cs",
+              "RelativeToolTip": "MyTASK3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:05:49.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
